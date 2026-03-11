@@ -3,7 +3,6 @@
 **Version:** 0.1.0 — Draft  
 **Created:** March 11, 2026  
 **Authors:** Yassine Benkhira
-
 **License:** MIT  
 
 ---
